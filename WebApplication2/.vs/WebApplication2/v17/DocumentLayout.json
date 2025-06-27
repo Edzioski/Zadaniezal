@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edzio\\source\\repos\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA21F541-5D2D-4033-BC74-C478380D5A2D}|WebApplication2.csproj|c:\\users\\edzio\\source\\repos\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA21F541-5D2D-4033-BC74-C478380D5A2D}|WebApplication2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA21F541-5D2D-4033-BC74-C478380D5A2D}|WebApplication2.csproj|c:\\users\\edzio\\source\\repos\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA21F541-5D2D-4033-BC74-C478380D5A2D}|WebApplication2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA21F541-5D2D-4033-BC74-C478380D5A2D}|WebApplication2.csproj|c:\\users\\edzio\\source\\repos\\webapplication2\\models\\usersalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA21F541-5D2D-4033-BC74-C478380D5A2D}|WebApplication2.csproj|solutionrelative:models\\usersalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA21F541-5D2D-4033-BC74-C478380D5A2D}|WebApplication2.csproj|c:\\users\\edzio\\source\\repos\\webapplication2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA21F541-5D2D-4033-BC74-C478380D5A2D}|WebApplication2.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA21F541-5D2D-4033-BC74-C478380D5A2D}|WebApplication2.csproj|c:\\users\\edzio\\source\\repos\\webapplication2\\controllers\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA21F541-5D2D-4033-BC74-C478380D5A2D}|WebApplication2.csproj|solutionrelative:controllers\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA21F541-5D2D-4033-BC74-C478380D5A2D}|WebApplication2.csproj|c:\\users\\edzio\\source\\repos\\webapplication2\\controllers\\userefcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA21F541-5D2D-4033-BC74-C478380D5A2D}|WebApplication2.csproj|solutionrelative:controllers\\userefcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA21F541-5D2D-4033-BC74-C478380D5A2D}|WebApplication2.csproj|c:\\users\\edzio\\source\\repos\\webapplication2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA21F541-5D2D-4033-BC74-C478380D5A2D}|WebApplication2.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA21F541-5D2D-4033-BC74-C478380D5A2D}|WebApplication2.csproj|c:\\users\\edzio\\source\\repos\\webapplication2\\controllers\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA21F541-5D2D-4033-BC74-C478380D5A2D}|WebApplication2.csproj|solutionrelative:controllers\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA21F541-5D2D-4033-BC74-C478380D5A2D}|WebApplication2.csproj|c:\\users\\edzio\\source\\repos\\webapplication2\\data\\datacontextdapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA21F541-5D2D-4033-BC74-C478380D5A2D}|WebApplication2.csproj|solutionrelative:data\\datacontextdapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA21F541-5D2D-4033-BC74-C478380D5A2D}|WebApplication2.csproj|c:\\users\\edzio\\source\\repos\\webapplication2\\data\\datacontextef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA21F541-5D2D-4033-BC74-C478380D5A2D}|WebApplication2.csproj|solutionrelative:data\\datacontextef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA21F541-5D2D-4033-BC74-C478380D5A2D}|WebApplication2.csproj|c:\\users\\edzio\\source\\repos\\webapplication2\\dtos\\usertoadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA21F541-5D2D-4033-BC74-C478380D5A2D}|WebApplication2.csproj|solutionrelative:dtos\\usertoadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA21F541-5D2D-4033-BC74-C478380D5A2D}|WebApplication2.csproj|c:\\users\\edzio\\source\\repos\\webapplication2\\models\\userjobinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA21F541-5D2D-4033-BC74-C478380D5A2D}|WebApplication2.csproj|solutionrelative:models\\userjobinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA21F541-5D2D-4033-BC74-C478380D5A2D}|WebApplication2.csproj|c:\\users\\edzio\\source\\repos\\webapplication2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA21F541-5D2D-4033-BC74-C478380D5A2D}|WebApplication2.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 306,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\edzio\\source\\repos\\WebApplication2\\Controllers\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Controllers\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\edzio\\source\\repos\\WebApplication2\\Controllers\\IUserRepository.cs",
+              "RelativeToolTip": "Controllers\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-11T11:10:35.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\edzio\\source\\repos\\WebApplication2\\Controllers\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\edzio\\source\\repos\\WebApplication2\\Controllers\\UserRepository.cs",
+              "RelativeToolTip": "Controllers\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-11T10:33:07.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserEFController.cs",
+              "DocumentMoniker": "C:\\Users\\edzio\\source\\repos\\WebApplication2\\Controllers\\UserEFController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserEFController.cs",
+              "ToolTip": "C:\\Users\\edzio\\source\\repos\\WebApplication2\\Controllers\\UserEFController.cs",
+              "RelativeToolTip": "Controllers\\UserEFController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-10T13:59:13.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataContextEF.cs",
+              "DocumentMoniker": "C:\\Users\\edzio\\source\\repos\\WebApplication2\\Data\\DataContextEF.cs",
+              "RelativeDocumentMoniker": "Data\\DataContextEF.cs",
+              "ToolTip": "C:\\Users\\edzio\\source\\repos\\WebApplication2\\Data\\DataContextEF.cs",
+              "RelativeToolTip": "Data\\DataContextEF.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-10T13:38:40.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserToAddDto.cs",
+              "DocumentMoniker": "C:\\Users\\edzio\\source\\repos\\WebApplication2\\Dtos\\UserToAddDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\UserToAddDto.cs",
+              "ToolTip": "C:\\Users\\edzio\\source\\repos\\WebApplication2\\Dtos\\UserToAddDto.cs",
+              "RelativeToolTip": "Dtos\\UserToAddDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-10T11:58:24.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserJobInfo.cs",
+              "DocumentMoniker": "C:\\Users\\edzio\\source\\repos\\WebApplication2\\Models\\UserJobInfo.cs",
+              "RelativeDocumentMoniker": "Models\\UserJobInfo.cs",
+              "ToolTip": "C:\\Users\\edzio\\source\\repos\\WebApplication2\\Models\\UserJobInfo.cs",
+              "RelativeToolTip": "Models\\UserJobInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-10T10:26:54.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserSalary.cs",
+              "DocumentMoniker": "C:\\Users\\edzio\\source\\repos\\WebApplication2\\Models\\UserSalary.cs",
+              "RelativeDocumentMoniker": "Models\\UserSalary.cs",
+              "ToolTip": "C:\\Users\\edzio\\source\\repos\\WebApplication2\\Models\\UserSalary.cs",
+              "RelativeToolTip": "Models\\UserSalary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-10T10:25:46.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\edzio\\source\\repos\\WebApplication2\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\edzio\\source\\repos\\WebApplication2\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-10T10:19:14.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataContextDapper.cs",
+              "DocumentMoniker": "C:\\Users\\edzio\\source\\repos\\WebApplication2\\Data\\DataContextDapper.cs",
+              "RelativeDocumentMoniker": "Data\\DataContextDapper.cs",
+              "ToolTip": "C:\\Users\\edzio\\source\\repos\\WebApplication2\\Data\\DataContextDapper.cs",
+              "RelativeToolTip": "Data\\DataContextDapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-09T13:16:17.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\edzio\\source\\repos\\WebApplication2\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\edzio\\source\\repos\\WebApplication2\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwKQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-09T12:51:43.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\edzio\\source\\repos\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\edzio\\source\\repos\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-09T11:46:47.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\edzio\\source\\repos\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\edzio\\source\\repos\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-05-09T12:46:13.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\edzio\\source\\repos\\WebApplication2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\edzio\\source\\repos\\WebApplication2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-05-09T11:38:36.796Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
