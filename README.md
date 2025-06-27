@@ -1,1 +1,1 @@
-Projekty Python
+Adrian Łupiński
